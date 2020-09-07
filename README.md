@@ -13,5 +13,6 @@ By looking in the code you will get hold of React's workflow and the use of hook
 
 API used: https://covid19.mathdro.id/api
 
+
 Setup:
 - run ```npm i && npm start```
