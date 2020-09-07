@@ -2,7 +2,7 @@
 
 ### [Live Site](https://covid19statswebsite.netlify.com/)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![COVID-19 Tracker]https://drive.google.com/file/d/1W0aetPN1mA9yXfea08zfxZdOnayrfuSl/view?usp=sharing)
 
 ## Introduction
 This is a code repository for Corona Tracker Application. 
