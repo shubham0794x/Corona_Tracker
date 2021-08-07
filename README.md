@@ -24,3 +24,8 @@ Setup:
 3. Styled-components for styling
 4. Jest for testing React Components
 
+## Project Set Up
+
+- [ ] Create a forked copy of this project.
+- [ ] Add your team lead as collaborator on Github.
+- [ ] Clone your OWN version of the repository in your terminal.
