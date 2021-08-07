@@ -16,3 +16,11 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ```npm i && npm start```
+
+## Stack Used
+
+1. Reactjs
+2. Create-react-app boilerplate for rendering
+3. Styled-components for styling
+4. Jest for testing React Components
+
