@@ -29,3 +29,9 @@ Setup:
 - [ ] Create a forked copy of this project.
 - [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal.
+
+## Resources
+
+- [create-react-app](https://create-react-app.dev/docs/getting-started)
+- [Heroku](https://www.heroku.com/)
+- [NodeJS](https://nodejs.org/en/download/)
