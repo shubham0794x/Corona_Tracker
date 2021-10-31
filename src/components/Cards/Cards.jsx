@@ -10,7 +10,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
   }
   return (
     <div className={styles.container}>
-      <Grid container spacing={3} justify="center">
+      <Grid container spacing={6} justify="center">
         <CardComponent
           className={styles.infected}
           cardTitle="Infected"
